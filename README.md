@@ -9,7 +9,7 @@ Now given X,Y and n sparks S1,S2,...,Sn, you want to know that if there exists s
 The first line contains one integer T (1≤T≤2000), denoting the number of test cases.
 For each test case:
 
-- The first line contatins three integers X,Y,n (1≤X,Y≤1000,1≤n≤2000), denoting the size of the game region and the number of sparks.
+- The first line contains three integers X,Y,n (1≤X,Y≤1000,1≤n≤2000), denoting the size of the game region and the number of sparks.
 
 - Following n lines each contains four integers A,B,C,D (|A|,|B|,|C|,|D|≤1000,A2+B2>0,C≤D), denoting the parameters of given sparks.
 
